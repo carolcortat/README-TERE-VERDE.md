@@ -28,6 +28,16 @@ Essas áreas são essenciais para o ecoturismo e preservação ambiental, mas ta
 
 ---
 
+## Principais tecnologias utilizadas
+
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" widht="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" widht="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" widht="50" height="50">
+</div>
+
+---
+
 ## 🚀 Descrição do MVP
 
 **Terê Verde Online** é uma plataforma digital com:
@@ -44,6 +54,8 @@ A ideia é que tanto turistas quanto moradores tenham um canal confiável e prá
 O público-alvo principal do projeto "Circuito Terê Verde" são turistas e visitantes que buscam atividades de ecoturismo e aventura em Teresópolis, como trilhas, cachoeiras e escaladas. Eles querem informações atualizadas e fáceis de acessar sobre a biodiversidade e os atrativos naturais da região.
 
 Indiretamente, o projeto também beneficia os administradores das unidades de conservação, que vão utilizar a plataforma para gerenciar e disponibilizar essas informações.
+
+---
 
 ## 💻 Como executar o projeto localmente
 
