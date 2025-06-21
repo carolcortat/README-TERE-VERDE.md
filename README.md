@@ -10,7 +10,6 @@ Este projeto nasceu com o objetivo de conectar pessoas à natureza exuberante de
 Este projeto foi desenvolvido por:
 
 - **Caroline da Silva Cortat**  
-- **Daniella Bastos Soares**  
 - **Marco Antonio de Moura Junior**  
 - **Renan Lopes Linhares da Silva**  
 
@@ -50,14 +49,13 @@ Caso você queira rodar o projeto localmente, siga os passos abaixo (exemplo gen
 
 ```bash
 # Clone o repositório
-git clone https://github.com/nomedousuario/tere-verde-online.git
+git clone https://github.com/Rennanldev/Projeto-faculdade.git
 
-# Acesse o diretório do projeto
-cd tere-verde-online
+# Acesse a pasta do projeto
+cd Projeto-faculdade
 
 # Instale as dependências
 npm install
 
-# Inicie o servidor de desenvolvimento
-npm start
+# Rode o projeto
 
