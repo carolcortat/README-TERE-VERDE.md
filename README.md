@@ -33,13 +33,17 @@ Essas áreas são essenciais para o ecoturismo e preservação ambiental, mas ta
 **Terê Verde Online** é uma plataforma digital com:
 
 - Interface intuitiva e responsiva  
-- Informações sobre trilhas, cachoeiras e eventos locais  
-- Atualizações sobre biodiversidade e áreas protegidas  
-- Recursos interativos para facilitar o planejamento das visitas
+- Informações sobre os parques, trilhas, cachoeiras e eventos 
 
 A ideia é que tanto turistas quanto moradores tenham um canal confiável e prático para explorar o melhor da natureza teresopolitana 🌿✨
 
 ---
+
+## Público-Alvo
+
+O público-alvo principal do projeto "Circuito Terê Verde" são turistas e visitantes que buscam atividades de ecoturismo e aventura em Teresópolis, como trilhas, cachoeiras e escaladas. Eles querem informações atualizadas e fáceis de acessar sobre a biodiversidade e os atrativos naturais da região.
+
+Indiretamente, o projeto também beneficia os administradores das unidades de conservação, que vão utilizar a plataforma para gerenciar e disponibilizar essas informações.
 
 ## 💻 Como executar o projeto localmente
 
