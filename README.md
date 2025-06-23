@@ -49,6 +49,12 @@ A ideia é que tanto turistas quanto moradores tenham um canal confiável e prá
 
 ---
 
+### Ferramenta de prototipação
+
+- Design do site feito no Adobe Illustrator
+
+---
+
 ## Público-Alvo
 
 O público-alvo principal do projeto "Circuito Terê Verde" são turistas e visitantes que buscam atividades de ecoturismo e aventura em Teresópolis, como trilhas, cachoeiras e escaladas. Eles querem informações atualizadas e fáceis de acessar sobre a biodiversidade e os atrativos naturais da região.
