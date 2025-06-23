@@ -51,7 +51,7 @@ A ideia é que tanto turistas quanto moradores tenham um canal confiável e prá
 
 ### Ferramenta de prototipação
 
-- Design do site feito no Adobe Illustrator
+- Protótipos feito no Adobe Illustrator e salvos em .PNG
 
 ---
 
