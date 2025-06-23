@@ -68,7 +68,7 @@ Indiretamente, o projeto também beneficia os administradores das unidades de co
 
 > ⚠️ *Instruções específicas serão adicionadas conforme o desenvolvimento do MVP.*
 
-Caso você queira rodar o projeto localmente, siga os passos abaixo (exemplo genérico):
+Caso você queira rodar o projeto localmente, siga os passos abaixo (exemplo para o git bash):
 
 ```bash
 # Clone o repositório
@@ -77,8 +77,9 @@ git clone https://github.com/Rennanldev/Projeto-faculdade.git
 # Acesse a pasta do projeto
 cd Projeto-faculdade
 
-# Instale as dependências
-npm install
+# Acesse a pasta da página principal
+cd paginaprincipal
 
 # Rode o projeto
+start paginaprincipal.html
 
