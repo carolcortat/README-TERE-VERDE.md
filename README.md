@@ -49,9 +49,10 @@ A ideia é que tanto turistas quanto moradores tenham um canal confiável e prá
 
 ---
 
-### Ferramenta de prototipação
+### Prototipação
 
 - Protótipos feito no Adobe Illustrator e salvos em .PNG
+- Foram definidas 3 telas principais para prototipação: Página Inicial, Página de Login e Página de um dos Parques
 
 ---
 
