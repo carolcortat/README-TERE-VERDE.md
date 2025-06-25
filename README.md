@@ -1,6 +1,6 @@
-# 🌱 Terê Verde Online
+# 🌱 Circuito Terê Verde
 
-Bem-vindo(a) ao repositório do projeto **Terê Verde Online**!  
+Bem-vindo(a) ao repositório do projeto **Circuito Terê Verde**!  
 Este projeto nasceu com o objetivo de conectar pessoas à natureza exuberante de Teresópolis através da tecnologia. A plataforma fornece informações atualizadas sobre trilhas, cachoeiras, biodiversidade e eventos nos principais parques da cidade, incentivando o turismo consciente e sustentável.  
 
 ---
@@ -52,7 +52,7 @@ A ideia é que tanto turistas quanto moradores tenham um canal confiável e prá
 ### Prototipação
 
 - Protótipos feito no Adobe Illustrator e salvos em .PNG
-- Foram definidas 3 telas principais para prototipação: Página Inicial, Página de Login do Administrador e Página de um dos Parques
+- Foram definidas 3 telas principais para prototipação: Página Inicial, Página de Login do Administrador, Página de Eventos e Página de um dos Parques
 
 ---
 
